@@ -1,0 +1,40 @@
+{
+  "name": "notesMergeReact",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "enzyme": "^2.7.1",
+    "nock": "^9.0.2",
+    "react-addons-test-utils": "^15.4.2",
+    "react-scripts": "0.8.3",
+    "redux-mock-store": "^1.2.1"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.20.0",
+    "chai-as-promised": "^6.0.0",
+    "immutable": "^3.8.1",
+    "isomorphic-fetch": "^2.2.1",
+    "nock": "^9.0.2",
+    "pretty-immutable": "^1.0.1",
+    "query-string": "^4.3.1",
+    "rc-checkbox": "^1.4.3",
+    "react": "^15.4.1",
+    "react-bootstrap": "^0.30.7",
+    "react-dom": "^15.4.1",
+    "react-recaptcha": "^2.2.5",
+    "react-redux": "^5.0.1",
+    "react-router": "^3.0.0",
+    "react-router-bootstrap": "^0.23.1",
+    "react-router-redux": "^4.0.7",
+    "redux": "^3.6.0",
+    "redux-actions": "^1.2.1",
+    "redux-logger": "^2.7.4",
+    "redux-thunk": "^2.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
